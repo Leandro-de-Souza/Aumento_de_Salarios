@@ -1,0 +1,2 @@
+# Aumento_de_Salarios
+Programa indicado a uma empresa que deseje conceder um aumento salarial a seus funcionários de acordo com o valor atual que cada pessoa ganha. O código do programa toma como base de dados de faixa salarial a tabela inclusa nesta pasta. O programa lerá o salário da pessoa e mostrará qual o novo salário desta pessoa depois do aumento, quanto foi o aumento e qual foi a porcentagem de aumento. Este programa está disponível nas linguagens C, C++, Java, C# e Python.
